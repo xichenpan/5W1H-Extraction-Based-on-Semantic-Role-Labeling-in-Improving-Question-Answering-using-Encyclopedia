@@ -16,7 +16,7 @@
 
 ### Semantic Role Labeling
 
-I used the model of [Simple BERT Models for Relation Extraction and Semantic Role Labeling (Shi et al, 2019)][https://arxiv.org/abs/1904.05255] to complete this part of the process.
+I used the model of [Simple BERT Models for Relation Extraction and Semantic Role Labeling (Shi et al, 2019)](https://arxiv.org/abs/1904.05255) to complete this part of the process.
 
 #### Model introduction
 
