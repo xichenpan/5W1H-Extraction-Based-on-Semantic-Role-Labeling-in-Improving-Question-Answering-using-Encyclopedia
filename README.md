@@ -78,7 +78,7 @@ Since the verb in SRL can only recognize actual verbs, some verbs such as "be" a
 
 Performance:
 
-|             Different verb             |                          SRl result                          |
+|             Different verb             |                          SRL result                          |
 | :------------------------------------: | :----------------------------------------------------------: |
 |   PersonX is a great tennis player.    |                             None                             |
 | PersonX becomes a great tennis player. | [ARG1: PersonX] [V: becomes] [ARG2: a great tennis player] . |
